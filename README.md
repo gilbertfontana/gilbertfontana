@@ -8,3 +8,4 @@ You can reach me on: <br/>
 * [LinkedIn](https://se.linkedin.com/in/gilbertfontana) :briefcase: <br/>
 * [Twitter](https://twitter.com/GilbertFontana/) :baby_chick: <br/>
 * [E-mail](mailto:gilbert.fontana@hotmail.com) :envelope:
+* ![Twitter Badge](https://img.shields.io/badge/-@GilbertFontana-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GilbertFontana)
