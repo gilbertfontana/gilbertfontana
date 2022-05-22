@@ -2,7 +2,7 @@
 I'm an economist and a data vizualisation enthusiast.<br>
 I create my vizualisations using **#Rstats** and **#ggplot2**.
 
-Here you can find some of my [**data vizualisation projects**](https://github.com/gilbertfontana/DataVisualization) and my [**#TidyTuesday**](https://github.com/gilbertfontana/TidyTuesday) contributions.
+Here you can find some of my [**data visualization projects**](https://github.com/gilbertfontana/DataVisualization) and my [**#TidyTuesday**](https://github.com/gilbertfontana/TidyTuesday) contributions.
 
 **You can reach me here**: <br/>
 
