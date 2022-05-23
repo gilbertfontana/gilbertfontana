@@ -1,5 +1,5 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I'm an economist and a data vizualisation enthusiast.<br>
+I'm an economist and a data visualization enthusiast.<br>
 I create my vizualisations using **#Rstats** and **#ggplot2**.
 
 Here you can find some of my [**data visualization projects**](https://github.com/gilbertfontana/DataVisualization) and my [**#TidyTuesday**](https://github.com/gilbertfontana/TidyTuesday) contributions.
